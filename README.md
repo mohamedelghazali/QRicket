@@ -18,8 +18,8 @@ Database management using SQLite
 Generating and handling QR codes with Python libraries
 
 # Installation and Setup : 
-1 - Clone the repository: git clone https://github.com/yourusername/QRicket.git .
+1 - Clone the repository: 'git clone https://github.com/yourusername/QRicket.git' .
 
-2 - Install required dependencies with pip install -r requirements.txt .
+2 - Install required dependencies with 'pip install -r requirements.txt' .
 
-3 - Run the application with python main.py . 
+3 - Run the application with 'python main.py' . 
