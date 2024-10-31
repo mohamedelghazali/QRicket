@@ -1,5 +1,5 @@
 # QRicket
-QRicket - A Cinema Ticketing System with QR Code Verification (Intermediate Course Python)
+QRicket - A Cinema Ticketing System with QR Code Verification (Intermediate Python Course)
 
 QRicket is a Python-based cinema ticketing system designed to streamline ticket purchases and verify entries with QR code technology. This project integrates a SQLite database for session management, ticket sales tracking, and a simple yet effective GUI built with Tkinter. QRicket is ideal for developers at an intermediate level looking to explore Python's capabilities in database operations, GUI design, and QR code generation.
 
